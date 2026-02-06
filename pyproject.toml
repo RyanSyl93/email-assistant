@@ -1,12 +1,11 @@
-[project]
-requires-python = ">3.11.2"
-
 [tool.poetry]
+package-mode = false
 name = "email-assistant"
 version = "0.1.0"
 description = "An AI email classifier & assistant"
 authors = ["Ryan <ryan@rmslabs.io>"]
 readme = "README.md"
+
 
 [tool.poetry.dependencies]
 python = "^3.11"
@@ -14,7 +13,7 @@ transformers = "5.1.0"
 datasets = "4.5.0"
 peft = "0.18.1"
 bitsandbytes = "0.49.1"
-pandas = "3.0.0"
+pandas = "<3"
 scikit-learn = "1.8.0"
 fastapi = "0.128.3"
 uvicorn = "0.40.0"
