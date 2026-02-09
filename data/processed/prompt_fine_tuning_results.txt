@@ -1,0 +1,2892 @@
+================================================================================
+ID: 11
+
+Email Subject: Home water damage
+
+Email Body: Our bathroom pipe burst last night and flooded the downstairs. We've turned off the water and called a plumber. What do I need to do to claim for the damage?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us and I am very sorry to hear about the flood damage to your home. I hope the situation is now under control.\n\nTo start your claim, please call our emergency claims line on [number] or log into your online portal. You will need your policy number, details of what happened, and photos of the damage if possible. Our team can arrange for a loss adjuster to assess the damage and may be able to recommend approved contractors for repairs.\n\nPlease keep all receipts for any emergency repairs or temporary accommodation if you need to move out while work is carried out, as these costs may be recoverable under your policy.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about the water damage in your home. I understand this is a very stressful situation, and I'm so sorry to hear about the flooding.  
+
+    We want to assure you that we're here to help you through this process. To get started, could you please tell me a little more about the incident?  Specifically, what type of damage has occurred, and how long ago did the pipe burst?
+
+    Once I have a clearer picture of the situation, I can guide you through the next steps in the claim process.  In the meantime, please ensure you keep all receipts and documentation related to the repairs and clean-up.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 12
+
+Email Subject: Theft from vehicle
+
+Email Body: Someone broke into my car overnight and stole my laptop and bag. I've reported it to the police. Does my car insurance cover personal items stolen from the vehicle?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for getting in touch and I am sorry to hear about the theft from your vehicle. \n\nUnfortunately, most motor insurance policies do not cover personal belongings stolen from inside the vehicle—these items would typically be covered under your home contents insurance instead. However, I would recommend checking your policy documents or contacting us so we can review your specific cover.\n\nIf your vehicle itself was damaged during the break-in (for example, a broken window), this may be covered under your comprehensive motor policy, subject to your excess.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about this unfortunate incident. I'm so sorry to hear that your car was broken into and that your personal belongings were stolen. That must be incredibly frustrating and upsetting. 
+
+We understand that you're looking for clarity on whether your car insurance covers personal items stolen from your vehicle.  To help us understand your situation better, could you please tell me:
+
+* What type of car insurance policy do you have?
+* Have you reported the theft to the police? If so, please provide us with the reference number.
+* What personal items were stolen from your vehicle?
+
+Once we have this information, we can assess your claim and let you know what steps we can take to support you. 
+
+We are here to help you through this difficult time and will do everything we can to resolve this issue as quickly as possible.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a
+
+================================================================================
+ID: 13
+
+Email Subject: Storm damage to fence
+
+Email Body: Last week's storm damaged my garden fence and part of the shed roof. Are these covered under my home insurance?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email. I am sorry to hear that your property was damaged in the recent storm.\n\nMost home insurance policies include cover for storm damage to fences, gates and outbuildings such as sheds, subject to your policy terms and excess. To proceed with a claim, please contact our claims team with photos of the damage and an estimate for repairs if you have one.\n\nOur team will review your policy and confirm whether the damage is covered and arrange for an assessment if needed.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about the damage to your fence and shed roof caused by the recent storm. I understand this must be a frustrating time, and I'm truly sorry to hear about the damage. 
+
+To help me understand your situation better, could you please tell me:
+
+* What type of fence do you have?
+* What is the approximate age of your shed?
+* Have you already taken any photos of the damage?
+
+Once I have this information, I can quickly assess your claim and let you know what the next steps are. We're here to help you through this process, and we'll do everything we can to get your claim settled as quickly as possible.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's claim.
+
+================================================================================
+ID: 14
+
+Email Subject: Hit and run damage
+
+Email Body: My parked car was hit by another vehicle last night. The other driver didn't leave any details. I have photos and a witness who saw it happen. How do I claim?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us and I am sorry to hear about the damage to your vehicle.\n\nAs this was a hit and run incident, you should report it to the police if you have not already done so. Please then contact our claims team with your policy number, the police reference number, photos of the damage, and the witness details.\n\nIf you have comprehensive cover, we can arrange repairs through one of our approved repairers. Your excess will apply, and the claim may affect your no claims discount unless you have protected it.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about the hit and run incident. I understand this is a frustrating situation, and I'm truly sorry for the inconvenience this has caused.  
+
+    We're here to help you through this process. To get started, could you please tell me a little more about your car and the incident? For example, what make and model is your car, and where was it parked when it was hit? 
+
+    Once I have this information, I can guide you through the next steps and help you understand what documentation you'll need to provide. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's claim.
+
+================================================================================
+ID: 15
+
+Email Subject: Claim taking too long
+
+Email Body: I submitted a claim three weeks ago and still haven't heard anything. This is unacceptable. I need an update immediately.
+
+True Category: complaint
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I sincerely apologise for the delay in progressing your claim. I understand how frustrating this must be, especially when you are waiting for a resolution.\n\nI have escalated your claim to a senior handler and asked them to contact you within the next 48 hours with a full update on the status and next steps. We will also review what caused the delay to ensure it does not happen again.\n\nIf you do not hear from us within two working days, please contact me directly and I will follow up personally.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your claim. I understand your frustration and how unsettling it must be to wait for an update. We sincerely apologize for the delay in processing your claim. 
+
+    Could you please provide me with your claim reference number so I can quickly access your details and provide you with an update? 
+
+    We are committed to resolving your claim as quickly as possible and will keep you informed of any progress. In the meantime, please don't hesitate to contact us if you have any questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** I have edited the original email to remove the "I need an update immediately" part as it is not a professional or helpful way to communicate.
+
+================================================================================
+ID: 16
+
+Email Subject: Excess too high
+
+Email Body: I've just been told my excess is £500, but when I bought the policy I was quoted £250. Someone has made a mistake and I want this corrected.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for getting in touch and I am sorry to hear there is confusion about your policy excess.\n\nI have reviewed your policy documents and your original quote to understand what happened. If there was an error in the information provided to you at the point of sale, we will of course put this right and adjust your excess and premium accordingly.\n\nA member of our team will contact you within two working days to discuss the findings and confirm the correct excess amount. We take these matters seriously and I apologise for any inconvenience caused.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your insurance excess. I understand your frustration and disappointment in this situation. It's certainly not ideal to have a change in your policy details, and I'm truly sorry for the inconvenience this has caused.
+
+    To help me understand the situation better, could you please provide me with your policy number and the date you purchased the policy? This will allow me to quickly access your policy details and confirm the information you've been given.
+
+    Once I have this information, I can investigate this matter further and see what options are available to rectify the situation. I'm confident we can find a solution that works for you.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 17
+
+Email Subject: Poor customer service
+
+Email Body: I called three times this week and was passed between different people. No one could answer my question and I was left on hold for over 30 minutes. This is appalling service.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for taking the time to share your feedback and I am very sorry to hear about your recent experience. This is clearly not the level of service we aim to provide and I can understand your frustration.\n\nI would like to investigate what happened during your calls and ensure your question is answered properly. Please could you let me know what your query was, and I will arrange for the right person to contact you directly? I will also share your feedback with our team leaders so we can improve our processes.\n\nThank you for your patience, and I apologise again for the inconvenience.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for bringing this to our attention. I understand your frustration with the recent experience you've had with our customer service.  It's certainly not the standard we strive for, and I sincerely apologize for the inconvenience and frustration this has caused.
+
+Could you please tell me a little more about the specific questions you were trying to ask?  Knowing the details will help me understand the situation better and ensure we can provide you with the right support.
+
+We are committed to resolving this issue for you as quickly as possible.  I'll be happy to connect you with a specialist who can address your specific needs.  In the meantime, please don't hesitate to reply to this email or call us back at [phone number] so we can get this sorted out for you.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:**  I have edited the email to be more concise and professional.
+
+================================================================================
+ID: 18
+
+Email Subject: Cancelled without warning
+
+Email Body: My policy was cancelled last month and I only found out when I tried to access my documents online. I never received any warning or explanation.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am very sorry to hear that your policy was cancelled without you being aware.\n\nCancellations can happen for reasons such as missed payments or incorrect information, but we should always notify you in advance and give you an opportunity to resolve the issue. I have asked our team to urgently review your policy history and contact you within 24 hours to explain what happened and discuss whether the policy can be reinstated.\n\nI apologise for the lack of communication and any concern this has caused.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about your cancelled policy. I understand your frustration and disappointment, and I sincerely apologize for the lack of communication regarding this matter. 
+
+We take customer service very seriously, and we are committed to ensuring that our customers are kept informed about any changes to their policies.  Could you please tell me your policy number so I can look into the details of your cancellation? 
+
+Once I have this information, I can provide you with a full explanation of the reasons behind the cancellation and any steps we can take to help you. 
+
+We are here to help you through this, and I will do my best to resolve this issue for you.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a template, and you will need to personalize it with the customer's specific details.
+
+================================================================================
+ID: 19
+
+Email Subject: Early renewal discount?
+
+Email Body: My renewal is coming up in two months. If I renew early, will I get a discount?
+
+True Category: renewal
+Predicted Category: renewal
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and for thinking ahead about your renewal.\n\nWhile we do not usually offer an early renewal discount, we encourage you to review your renewal quote as soon as you receive it and contact us if you have any questions or would like to discuss your cover. In some cases, we may be able to adjust your policy or offer alternative options that better suit your needs.\n\nYour renewal documents will be sent approximately 21 days before your renewal date.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand your frustration about your upcoming renewal and the potential for a discount.  We want to ensure you get the best possible deal, so I'd love to help you explore your options.
+
+    Could you please tell me a little more about your current policy and what you're hoping to achieve with your renewal? For example, are you looking for a specific discount or are you simply interested in understanding the early renewal options available?
+
+    Once I have a clearer picture of your needs, I can provide you with some tailored advice and discuss the best course of action. 
+
+    We're here to help you every step of the way. Please don't hesitate to reach out if you have any further questions.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:**  The customer's email is a renewal, so the focus should be on the renewal discount
+
+================================================================================
+ID: 20
+
+Email Subject: Compare renewal price
+
+Email Body: I've received my renewal quote and it's higher than quotes I've found online with other insurers. Can you match or beat those prices?
+
+True Category: renewal
+Predicted Category: renewal
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and for giving us the opportunity to discuss your renewal before you move elsewhere.\n\nInsurance pricing can vary significantly between providers based on many factors. While we cannot always match competitor quotes directly, we would be happy to review your policy and see if there are any adjustments we can make to reduce your premium, such as adjusting your excess or reviewing optional extras.\n\nPlease contact our team and we will do our best to offer you a competitive price.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us regarding your renewal quote. I understand your frustration at seeing a higher price than you were expecting.  We want to assure you that we're here to help and find the best possible solution for you.
+
+    To understand your situation better, could you please tell me a little more about the quotes you've found online?  Specifically, what are the details of the other insurers' quotes, including the cover you're looking for and the premiums?
+
+    Once I have this information, I can review your current policy and see if we can offer any competitive alternatives.  We're committed to ensuring you get the best possible value for your money.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 21
+
+Email Subject: Cancel auto-renewal
+
+Email Body: I no longer want my policy to auto-renew. Please cancel this and confirm in writing.
+
+True Category: renewal
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email. I can confirm that we have removed the auto-renewal setting from your policy. Your cover will now end at 23:59 on [renewal date] unless you contact us to renew manually.\n\nYou will still receive your renewal quote in advance so you can review it and decide whether to continue your cover with us or arrange alternative insurance.\n\nPlease ensure you have continuous cover in place if your vehicle or property remains in use.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your auto-renewal. I understand that this can be frustrating, and I'm truly sorry for any inconvenience this may have caused. 
+
+    Could you please confirm your policy number and the date of your current policy renewal? This will help me to quickly process your request. 
+
+    Once I have this information, I can confirm the cancellation of your auto-renewal and send you a confirmation email. 
+
+    We're here to help you through this process, so please don't hesitate to reach out if you have any further questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Customer's Email:**
+
+Subject: Cancel auto-renewal
+Body: I no longer want my policy to auto-renew. Please cancel this and confirm in writing.
+
+
+**Your Reply:**
+
+Dear [Customer Name],
+
+Thank you for contacting us about your auto-renewal.
+
+================================================================================
+ID: 22
+
+Email Subject: Renewal documents not received
+
+Email Body: My policy renews next week but I haven't received any renewal documents. Can you resend them urgently?
+
+True Category: renewal
+Predicted Category: renewal
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for getting in touch and I apologise that you have not received your renewal documents.\n\nI have checked your account and can see that your renewal is due on [date]. I will arrange for your documents to be resent to your email address on file immediately. If you do not receive them within one hour, please let me know and I will send them from an alternative address or arrange for a paper copy to be posted.\n\nIf you need to renew urgently, we can also take payment and confirm your renewal over the phone.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your renewal documents. I understand how frustrating this can be, especially when you're looking forward to your renewal. 
+
+    Could you please confirm your policy number and the email address you used to receive your previous renewal documents? This will help me to locate your documents quickly and efficiently.
+
+    Once I have this information, I can resend them to you immediately. We're here to help you through this process and ensure you're covered for the next year. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** I have edited the original email to be more concise and professional.
+
+================================================================================
+ID: 23
+
+Email Subject: Change of vehicle
+
+Email Body: I've sold my car and bought a different one. How do I update my policy and will my premium change?
+
+True Category: policy_change
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nCongratulations on your new vehicle and thank you for letting us know.\n\nTo update your policy, we will need the make, model, registration number, and value of your new vehicle. Once we have this information, we will recalculate your premium based on the new vehicle's risk profile. Depending on the car, your premium may increase, decrease, or stay the same.\n\nThere may also be an administration fee for making a mid-term change, as outlined in your policy documents. Please call us or update your details online, and we will confirm the new premium before applying any changes.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch. I understand that selling your car and buying a new one can be a stressful time, and I'm sorry to hear you're experiencing some frustration with updating your policy. 
+
+    To help me understand your situation better, could you please tell me the make, model, and year of your new vehicle?  Also, is your new car being used for the same purpose as your previous car? 
+
+    Once I have this information, I can quickly update your policy and let you know if your premium will change.  We're here to help you through this process, so please don't hesitate to ask if you have any further questions.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's situation.
+
+================================================================================
+ID: 24
+
+Email Subject: Remove named driver
+
+Email Body: I'd like to remove a named driver from my policy as they no longer use my car. Will this reduce my premium?
+
+True Category: policy_change
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email. We can certainly remove the named driver from your policy.\n\nRemoving a driver may reduce your premium, depending on their age, driving history, and the level of risk they added to the policy. We will recalculate your premium once the change is processed and refund any difference for the remainder of your policy term, minus any applicable administration fee.\n\nPlease confirm the name of the driver you wish to remove and we will arrange this for you.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us about removing a named driver from your policy. I understand that this can be a frustrating process, and I want to assure you that we're here to help. 
+
+    Could you please tell me a little more about your situation?  For example, when did you last use the car with the named driver?  And what type of policy do you have?  
+
+    Once I have a clearer picture of your circumstances, I can provide you with an accurate assessment of how this change will affect your premium.  We can then discuss the next steps to remove the named driver from your policy.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:**  This is a sample response. You may need to adjust it based on the specific details of the customer's situation.
+
+================================================================================
+ID: 25
+
+Email Subject: Increase voluntary excess
+
+Email Body: Can I increase my voluntary excess to lower my monthly premium?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email. Yes, you can increase your voluntary excess at any time, and this will usually result in a reduction to your premium.\n\nPlease let us know what excess amount you would prefer, and we will recalculate your premium and confirm the new monthly payment. Please note that there may be an administration fee for making this change mid-term.\n\nRemember that if you make a claim, you will need to pay the full excess (compulsory + voluntary) before any payout is made.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us about increasing your voluntary excess. I understand that you're looking to lower your monthly premium, and I want to assure you that we're here to help you find the best solution for your needs.
+
+    Could you please tell me a little more about your current policy and what you're hoping to achieve by increasing your excess? For example, what is your current excess amount and what is your desired new excess? 
+
+    Once I have a better understanding of your situation, I can provide you with some tailored options and next steps. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Customer Email:**
+
+Subject: Increase voluntary excess
+Body: Can I increase my voluntary excess to lower my monthly premium?
+
+
+**Your Reply:**
+
+Dear [Customer Name],
+
+Thank you for getting in touch. I understand that you're looking to lower your monthly premium and are considering increasing
+
+================================================================================
+ID: 26
+
+Email Subject: Change mileage estimate
+
+Email Body: I originally estimated 8,000 miles per year but I'm now doing much less. Can I reduce this and get a refund?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know about the change in your mileage.\n\nYes, we can update your estimated annual mileage on the policy. If the new mileage is significantly lower, this may reduce your premium, and we will refund the difference for the remaining period of your policy, minus any administration fee.\n\nPlease let us know your revised mileage estimate and we will recalculate your premium and confirm the adjustment.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us about your mileage estimate. I understand that you're doing much less mileage now than you originally estimated, and that can be frustrating. 
+
+    Could you please tell me a bit more about your current mileage?  For example, what is your average weekly mileage? 
+
+    Once I have a clearer picture of your situation, I can look into the possibility of adjusting your mileage estimate and potentially offering a refund. 
+
+    We're here to help you find a solution that works for you. Please don't hesitate to reach out if you have any further questions.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** I've included the customer's name in the reply to make it more personal.
+
+================================================================================
+ID: 27
+
+Email Subject: Policy documents lost
+
+Email Body: I've lost my policy documents and need a copy urgently for my MOT. Can you email them to me today?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email. We can certainly provide a copy of your policy documents.\n\nI have arranged for your full policy schedule and certificate of insurance to be sent to your email address within the next hour. If you do not receive them, please check your spam folder or let us know and we can resend them.\n\nYou can also download your documents at any time by logging into your online account.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your lost policy documents. I understand how frustrating this must be, especially with the MOT approaching.  We're here to help you get this sorted as quickly as possible.
+
+    Could you please tell me your policy number and the date of your MOT? This will help me to locate your policy documents and ensure I can send you a copy promptly.
+
+    Once I have this information, I can email you a copy of your policy documents. We'll also ensure that you're fully informed about any potential delays.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 28
+
+Email Subject: Breakdown cover included?
+
+Email Body: Does my car insurance include breakdown cover, or do I need to buy that separately?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nMost standard motor insurance policies do not automatically include breakdown cover, although it may be available as an optional extra. I have checked your policy and can confirm whether breakdown cover is included or if you would like to add it.\n\nIf you would like a quote for breakdown cover, please let us know and we can arrange this for you.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Hi [Customer Name],
+
+    Thank you for getting in touch with us. I understand your frustration about needing to know if your car insurance includes breakdown cover.  It can be very inconvenient when you're facing a breakdown. 
+
+    To help me understand your situation better, could you please tell me your policy number?  This will allow me to quickly check your policy details and confirm whether breakdown cover is included. 
+
+    Once I have that information, I can let you know exactly what's covered and what steps you can take next.  We're here to help you get back on the road as quickly as possible.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response. You may need to adjust it based on the specific details of the customer's query.
+
+================================================================================
+ID: 29
+
+Email Subject: Courtesy car query
+
+Email Body: If my car needs repairs after an accident, will I get a courtesy car while it's being fixed?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nWhether a courtesy car is provided depends on your level of cover and the circumstances of your claim. If you have comprehensive cover and use one of our approved repairers, a courtesy car is usually available subject to availability. If the accident was not your fault and we can recover costs from the other party, we may also be able to arrange a replacement vehicle.\n\nFull details of courtesy car entitlement are included in your policy documents. If you would like us to check your specific cover, please let us know.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your courtesy car query. I understand that this is a frustrating situation, and I want to assure you that we're here to help you through this. 
+
+    To clarify, you're asking if you'll be provided with a courtesy car if your car needs repairs following an accident.  Could you please tell me a little more about the accident and the repairs that are needed? 
+
+    Once I have a better understanding of your situation, I can let you know what options are available to you.  In the meantime, please don't hesitate to contact us if you have any questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:**  The customer's email is a general query, so you don't need to provide specific details about their policy.
+
+================================================================================
+ID: 30
+
+Email Subject: Multi-car discount
+
+Email Body: I have two cars in my household. Do you offer a multi-car discount?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nYes, we do offer multi-car policies that can provide a discount when you insure more than one vehicle with us. The discount depends on the vehicles and drivers involved.\n\nIf you would like a quote for a multi-car policy, please provide the registration numbers, makes, models, and details of the main drivers for each vehicle, and we will prepare a quote for you.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand that you're looking for information about a multi-car discount. I'm so sorry to hear that you're experiencing frustration with this.  We want to ensure you have the best possible experience with our insurance, and we're here to help.
+
+    Could you please tell me a little more about your current policy?  Knowing the details of your existing policy will help me to give you the most accurate information about multi-car discounts.  For example, what type of car insurance do you have?  And what is your current policy number?
+
+    Once I have this information, I can quickly check your eligibility for a multi-car discount and provide you with the next steps.  
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 31
+
+Email Subject: Kitchen fire damage
+
+Email Body: We had a small fire in the kitchen last night caused by a faulty appliance. The fire brigade attended and the damage is mainly smoke and soot. How do I start a claim?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us and I am very sorry to hear about the fire. I hope everyone is safe.\n\nTo start your claim, please contact our claims team with your policy number, the fire brigade incident reference, and photos of the damage. We will arrange for a loss adjuster to assess the extent of the damage and discuss the next steps, including cleaning, repairs, and any temporary accommodation if needed.\n\nPlease keep receipts for any emergency repairs or costs incurred, as these may be recoverable.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about the fire in your kitchen. I understand this must be a very stressful time for you, and I'm truly sorry to hear about the damage caused.  
+
+    We're here to help you through this process. To start a claim, could you please provide me with the following information:
+
+    * Your policy number
+    * The make and model of the faulty appliance
+    * A brief description of the incident
+    * Any photos or videos you have of the damage
+
+    Once I have this information, I can guide you through the next steps and answer any questions you may have. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+    
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's claim.
+
+================================================================================
+ID: 32
+
+Email Subject: Accidental damage to TV
+
+Email Body: My child accidentally knocked over our TV and the screen is smashed. Is this covered under home insurance?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am sorry to hear about the damage to your TV.\n\nAccidental damage to contents is usually covered if you have added this option to your home insurance policy. Please check your policy schedule to confirm whether accidental damage cover is included.\n\nIf it is, you can start a claim by contacting our team with details of what happened and an estimate or receipt for a replacement. Your policy excess will apply.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about the accidental damage to your TV. I understand this is a frustrating situation, and I'm truly sorry to hear about the damage.  
+
+We want to help you get your TV repaired or replaced as quickly as possible. To get started, could you please tell me:
+
+* What type of TV is it?
+* What is the make and model number?
+* When did you purchase the TV?
+* Have you already contacted your TV manufacturer?
+
+Once I have this information, I can assess your claim and guide you through the next steps. We're here to support you every step of the way.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 33
+
+Email Subject: Lost jewellery
+
+Email Body: I've lost a valuable ring that was listed on my home insurance. Can I claim for this?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am sorry to hear about your lost ring.\n\nIf the ring was specified on your policy and you have cover for loss (as opposed to theft or damage only), you may be able to claim. Please contact our claims team with the item details, the original valuation certificate, and information about when and where it was lost.\n\nWe may also ask whether the loss has been reported to the police, depending on the circumstances.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about your lost jewellery. I understand this must be a very frustrating situation, and I'm truly sorry for the inconvenience this is causing you. 
+
+To help me understand your situation better, could you please tell me:
+
+* What type of jewellery is it?
+* How much did it cost?
+* When did you last see it?
+* Where did you last see it?
+
+Once I have this information, I can assess your claim and let you know what the next steps are. We are here to help you through this process, and we will do everything we can to get your claim resolved as quickly as possible.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's claim.
+
+================================================================================
+ID: 34
+
+Email Subject: Boiler breakdown
+
+Email Body: Our boiler has broken down and the engineer says it needs replacing. Is this covered under home insurance?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for getting in touch.\n\nMost standard home insurance policies do not cover boiler breakdowns or mechanical failures, as these are considered maintenance issues rather than insured events. However, if you have a separate home emergency or boiler cover policy with us, this may be covered.\n\nPlease check your policy documents or contact us so we can confirm what cover you have in place.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your boiler breakdown. I understand this is a frustrating situation, and I'm truly sorry to hear that your boiler has stopped working. 
+
+    To help me understand your situation better, could you please tell me:
+
+    * What type of boiler do you have?
+    * When did the boiler breakdown occur?
+    * Have you contacted your boiler manufacturer?
+
+    Once I have this information, I can quickly check your policy and let you know if your boiler breakdown is covered. 
+
+    We're here to help you through this, and we'll do everything we can to get your boiler fixed or replaced as quickly as possible.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's claim.
+
+================================================================================
+ID: 35
+
+Email Subject: Claim rejected unfairly
+
+Email Body: My claim was rejected because you say I didn't disclose previous damage, but I was never asked about this when I bought the policy. I want this reviewed.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am sorry to hear that your claim was declined.\n\nI understand how frustrating this situation must be, and I can assure you that we will review your case thoroughly. We will look at the information provided when you purchased the policy, the terms of your cover, and the reasons for the claim decision.\n\nA senior claims handler will be in touch within the next three working days to discuss the findings. If you remain dissatisfied with the outcome, we will provide details of how to escalate your complaint further.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your claim. I understand your frustration and disappointment with the outcome. It's never our intention to reject a claim unfairly, and I want to assure you that we take all claims seriously.
+
+    To help me understand the situation better, could you please provide some more details? 
+
+    * What specific damage was claimed for?
+    * When did you purchase the policy?
+    * Have you received any correspondence from us regarding your claim?
+
+    Once I have this information, I can review your case and see if there's anything we can do to help. 
+
+    We are here to help you through this process, and I want to assure you that we will do everything we can to resolve this issue fairly and promptly.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+    
+**Please note:** This is a template, and you will need to adapt it to the specific
+
+================================================================================
+ID: 36
+
+Email Subject: Rude staff member
+
+Email Body: I spoke to someone in your claims team yesterday who was extremely rude and unhelpful. I want to make a formal complaint.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for bringing this to our attention and I am very sorry to hear that you had a negative experience with one of our colleagues.\n\nWe take complaints about staff conduct very seriously and I will ensure this matter is investigated immediately. Please could you provide the date and approximate time of the call, and any other details you remember, so we can identify the colleague involved?\n\nI will arrange for a manager to review the call recording and respond to you within five working days. We are committed to treating all customers with courtesy and respect.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for bringing this matter to our attention. I understand your frustration and disappointment with the service you received from our claims team yesterday.  We strive to provide a positive and supportive experience for all our customers, and it's clear that this did not happen in your case.
+
+    To help us investigate this further, could you please provide some more details about the interaction you had with our claims team member?  Specifically, what was the nature of the issue you were trying to resolve, and what was the specific behaviour that you found to be rude?
+
+    We are committed to resolving this issue and ensuring that you receive the support you deserve.  We will be reviewing your claim and will be in touch shortly to discuss the next steps.  In the meantime, please do not hesitate to contact us if you have any further questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 37
+
+Email Subject: Wrong information given
+
+Email Body: I was told I could claim for something, but now your claims team says it's not covered. Someone gave me incorrect information.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am sorry to hear there has been confusion about your cover.\n\nIf incorrect information was provided to you by one of our team, we take that very seriously and will investigate what happened. Please could you let us know when and how you were given this information (for example, by phone, email, or in person), and we will review the records.\n\nWe will then confirm the correct position and, if an error was made, discuss how we can resolve the situation fairly.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about this issue. I understand your frustration and disappointment, it's never pleasant to receive incorrect information, especially when it comes to something as important as insurance claims. 
+
+Could you please tell me a little more about the situation?  Specifically, what was the information you were given about your claim, and what was the outcome from the claims team? 
+
+Once I have a clearer picture of the situation, I can look into this for you and ensure we're on the same page.  We're here to help you get this sorted out as quickly as possible.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 38
+
+Email Subject: Marketing emails after unsubscribe
+
+Email Body: I unsubscribed from your marketing emails weeks ago but I'm still receiving them. Please stop sending me these messages.
+
+True Category: complaint
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I apologise that you are still receiving marketing communications after opting out.\n\nI have immediately removed your email address from all marketing lists and you should not receive any further promotional emails from us. Please allow up to 48 hours for this to take full effect.\n\nYou will still receive important policy-related emails such as renewal reminders and policy updates. If you continue to receive marketing emails after this time, please let me know.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch. I understand your frustration with receiving marketing emails despite unsubscribing. I'm so sorry for the inconvenience this has caused. 
+
+    To help me understand the situation better, could you please confirm the email address you used to unsubscribe?  We want to ensure we have your details correct and can stop the emails immediately.
+
+    Once we have that information, we'll be able to take immediate action to stop the emails. We're committed to providing a positive customer experience and appreciate your patience while we resolve this for you.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response. You may need to adjust it based on the specific details of the customer's issue.
+
+================================================================================
+ID: 39
+
+Email Subject: Loyalty discount request
+
+Email Body: I've been a customer for five years and feel I should be rewarded for my loyalty. Can you offer me a discount on my renewal?
+
+True Category: renewal
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and for your continued loyalty over the past five years. We genuinely appreciate your custom.\n\nWhile we do not have a standard loyalty discount scheme, we are always happy to review your policy and renewal quote to see if there are ways we can make it more competitive. This might include adjusting your excess, reviewing optional cover, or checking for any discounts you may be eligible for.\n\nPlease contact our renewal team and we will do our best to help.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand your frustration with not receiving a loyalty discount on your renewal. We value our loyal customers and want to ensure you feel appreciated.
+
+    Could you please tell me a little more about your policy?  Specifically, what type of policy you have and what your current premium is?  This will help me understand your situation better and see if there are any specific options available to you.
+
+    We're here to help you find the best possible solution. Please don't hesitate to contact us if you have any further questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's issue.
+
+================================================================================
+ID: 40
+
+Email Subject: Payment plan change
+
+Email Body: Can I change from monthly to annual payments at renewal? Will this save me money?
+
+True Category: renewal
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nYes, you can switch to annual payment at renewal, and this will usually save you money as there is no interest charge on annual payments. If you currently pay monthly, you are likely paying an additional fee for spreading the cost.\n\nYour renewal documents will show both the annual and monthly premium options. If you would like to pay annually this year, simply select that option when you renew.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand your frustration with the current payment structure and I want to assure you that we're here to help you find a solution that works best for you.
+
+    Could you please tell me a little more about your current policy and what you're hoping to achieve by changing to annual payments?  For example, are you looking to save money, or is there a specific reason you'd prefer to switch to annual payments?
+
+    Once I have a better understanding of your situation, I can explore the options available to you and provide you with a tailored solution.  
+
+    In the meantime, please don't hesitate to contact us if you have any questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:**  The customer's email is a general query, so you don't need to delve into specific details of their policy.
+
+================================================================================
+ID: 41
+
+Email Subject: No claims bonus query
+
+Email Body: Will my no claims bonus increase again this year at renewal, or is there a maximum?
+
+True Category: renewal
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nMost no claims bonuses increase by one year for each claim-free year, up to a maximum (often 5 or 9 years, depending on the insurer). Once you reach the maximum, it will not increase further, but it will remain protected if you have purchased no claims discount protection.\n\nYour renewal documents will confirm your current no claims bonus level and whether it has increased this year. If you would like us to check this for you, please let us know.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us regarding your No Claims Bonus. I understand that you're concerned about whether it will increase again this year and if there's a maximum. 
+
+    I can assure you that we're here to help and we'll do our best to clarify this for you.  To give you the most accurate information, could you please tell me:
+
+    * What is your current No Claims Bonus?
+    * What type of car insurance policy do you have?
+    * When is your renewal date?
+
+    Once I have this information, I can look into your specific circumstances and provide you with a clear answer. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** I have edited the email to remove the "Subject: No claims bonus query" as it is not necessary.
+
+================================================================================
+ID: 42
+
+Email Subject: Renew with different vehicle
+
+Email Body: I'm selling my current car before renewal and buying a new one. Can I renew my policy and then change the vehicle details?
+
+True Category: renewal
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email.\n\nYes, you can renew your policy and then update the vehicle details once you have purchased your new car. However, please be aware that changing the vehicle may result in a change to your premium, depending on the make, model, and value of the new car.\n\nIf you know the details of your new vehicle before renewal, we recommend updating the quote in advance so you have an accurate premium from the start.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand your frustration with the current situation and how it can be a real hassle to manage these changes.  We want to ensure you have a smooth transition and are here to help.
+
+    To help us understand your situation better, could you please tell me:
+
+    * What is the make and model of your current vehicle?
+    * What is the date of your current policy renewal?
+    * What is the make and model of the new vehicle you are purchasing?
+
+    Once we have this information, we can quickly assess your options and guide you through the process of renewing your policy and updating your vehicle details. 
+
+    We appreciate your patience and understanding. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 43
+
+Email Subject: Partner moving in
+
+Email Body: My partner is moving in with me. Do I need to add them to my home insurance policy?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know about your change in circumstances.\n\nIf your partner is moving in permanently, it is important to update your policy to reflect this, especially if they will own belongings that need to be covered or if they will be living at the property as a joint occupant. In some cases, this may affect your premium.\n\nPlease contact us with your partner's details and we will update your policy and confirm any changes to your cover or price.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Hi there,
+
+    Thank you for getting in touch with us. I understand that moving in with a partner can be a big change, and it's natural to have questions about your insurance. 
+
+    To help me understand your situation better, could you please tell me a bit more about your current home insurance policy?  For example, what type of policy do you have, and what is your current level of cover?
+
+    Once I have a clearer picture of your policy, I can advise you on whether or not you need to add your partner to your policy.  We're here to help you find the best solution for your needs.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+    
+
+
+**Please note:** I've added a bit of context to the email to make it more realistic.
+
+================================================================================
+ID: 44
+
+Email Subject: Occupation change
+
+Email Body: I've changed jobs and my new role has a different job title. Do I need to update my insurance?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know.\n\nYes, it is important to update your occupation on your insurance policy as it can affect your premium and your cover. Some occupations are considered higher or lower risk, so your premium may change once we update your details.\n\nPlease provide your new job title and a brief description of your role, and we will update your policy and confirm any changes to your premium.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch. I understand that changing jobs can be a stressful time, and it's completely understandable that you'd have questions about your insurance. 
+
+    To help me understand your situation better, could you please tell me what your new job title is?  Also, what type of insurance are you referring to?  For example, is it your home insurance, car insurance, or something else?
+
+    Once I have this information, I can quickly check if any changes are needed and provide you with the next steps.  We're here to help you through this process, so please don't hesitate to ask any questions you may have.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 45
+
+Email Subject: Modify car with alloy wheels
+
+Email Body: I'm planning to fit alloy wheels to my car. Do I need to tell you about this modification?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for checking before making the modification.\n\nYes, you must notify us of any modifications to your vehicle, including alloy wheels, as this can affect your premium and your cover. Failure to declare modifications could result in your policy being invalid or a claim being declined.\n\nPlease provide details of the modification, including the make, type, and value of the wheels, and we will update your policy and confirm any change to your premium.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch. I understand your frustration about needing to update your car details.  It's never fun when things don't go as planned. 
+
+    To help me understand your situation better, could you please tell me a little more about your car and the modifications you're planning?  Specifically, what type of alloy wheels are you looking to fit and what is the make and model of your car?
+
+    Once I have this information, I can quickly check if this modification will affect your insurance and advise you on the next steps.  
+
+    We're here to help you through this, so please don't hesitate to ask any questions you may have.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's situation.
+
+================================================================================
+ID: 46
+
+Email Subject: Working from home now
+
+Email Body: I used to commute to an office but now work from home permanently. Should I update my car insurance?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email.\n\nYes, if your car usage has changed (for example, from commuting to social/domestic use only), you should update your policy. This change may reduce your premium, as you are likely driving fewer miles and facing lower risk.\n\nPlease let us know your new usage category and estimated annual mileage, and we will adjust your policy and refund any difference for the remaining period, minus any administration fee.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand that working from home permanently can be a big change, and it's natural to wonder if your car insurance needs have changed. 
+
+    To help me understand your situation better, could you please tell me a bit more about your current car insurance policy? For example, what type of car do you drive, and how long have you had the policy? 
+
+    We're here to help you find the best solution for your needs. Please don't hesitate to contact us if you have any further questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response. You may need to adjust it based on the specific details of the customer's query.
+
+================================================================================
+ID: 47
+
+Email Subject: Student discount available?
+
+Email Body: My daughter has just passed her driving test and I want to add her to my policy. Do you offer a student discount or young driver discount?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nWe do not offer a standard student discount, but we may be able to reduce the premium if your daughter meets certain criteria, such as having completed a Pass Plus course or maintaining good academic results.\n\nPlease provide her details (age, driving licence type, occupation, and driving history) and we will provide a quote for adding her to your policy.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand that you're excited about your daughter passing her driving test and wanting to add her to your policy. I can see you're looking for a student discount or young driver discount. 
+
+    To help me understand your situation better, could you please tell me a little more about your daughter's age and the type of car she'll be driving? 
+
+    We're here to help you find the best possible insurance solution for your family. Please don't hesitate to reach out if you have any further questions.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:**  The customer's email is a general query, so you don't need to delve into specific details about their policy.
+
+================================================================================
+ID: 48
+
+Email Subject: Driving abroad
+
+Email Body: I'm planning to drive my car in France for two weeks. Am I covered by my UK insurance?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nMost UK motor insurance policies provide the minimum legal cover required in EU countries, but this may be lower than your UK cover level. If you have comprehensive cover in the UK, you may only have third-party cover when driving abroad.\n\nWe recommend purchasing a short-term European travel extension to maintain your full level of cover. Please contact us and we will arrange this for you and provide confirmation for your trip.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand your frustration about needing to clarify your car insurance coverage for driving abroad.  It's completely understandable to feel anxious about this, especially when planning a trip. 
+
+    To help me understand your situation better, could you please tell me:
+
+    * What type of policy do you have with us?
+    * Have you checked your policy documents for any specific information about driving abroad?
+    * What is the specific location in France you will be driving in?
+
+    Once I have this information, I can quickly check your policy and let you know if you're covered.  We're here to help you have a smooth and worry-free trip.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 49
+
+Email Subject: Home insurance for rental property
+
+Email Body: I'm renting out my property. Do I need a different type of insurance?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nYes, if you are renting out your property, you will need landlord insurance rather than standard home insurance. Landlord policies are designed to cover buildings and liability for rental properties, and standard home insurance will not provide the right cover once tenants move in.\n\nPlease contact us and we can provide a quote for landlord insurance or arrange to switch your existing policy.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand that you're renting out your property and are looking for clarity on the type of insurance you need.  It's completely understandable to feel frustrated when you're trying to navigate these things.  
+
+    To ensure we're providing the best advice, could you please tell me a little more about your property?  Specifically, how long have you been renting it out?  And what type of tenancy agreement do you have in place?
+
+    Once I have this information, I can quickly check if you need a different type of insurance and offer some tailored advice.  We're here to help you find the right cover for your situation.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 50
+
+Email Subject: How to cancel policy
+
+Email Body: I've sold my car and no longer need insurance. How do I cancel my policy and will I get a refund?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know.\n\nYou can cancel your policy by contacting us or submitting a cancellation request through your online account. If you cancel mid-term, you may receive a pro-rata refund for the remaining period, minus any cancellation fee as outlined in your policy terms.\n\nPlease note that if your vehicle is no longer in use, you must also submit a Statutory Off Road Notification (SORN) to the DVLA to avoid penalties.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand that selling your car and no longer needing insurance can be frustrating, and I'm sorry to hear you're experiencing this. 
+
+    To help me understand your situation better, could you please confirm the following:
+
+    * What is your policy number?
+    * When did you purchase the policy?
+    * What type of car was insured?
+
+    Once I have this information, I can quickly process your cancellation and let you know about your refund. 
+
+    We're here to help you through this process, so please don't hesitate to ask if you have any further questions.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 51
+
+Email Subject: Pet damage to neighbour's property
+
+Email Body: My dog damaged my neighbour's fence and they are asking me to pay for repairs. Is this covered under my home insurance?
+
+True Category: claim
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nDamage caused by your pet to a third party's property may be covered under the liability section of your home insurance policy, depending on your level of cover. Please check your policy schedule to confirm whether liability cover is included.\n\nIf it is, please contact our claims team with details of the incident and any repair estimates from your neighbour, and we will review your claim.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your pet damage to your neighbour's fence. I understand this is a frustrating situation, and I'm truly sorry to hear about the damage. 
+
+    To help me understand the situation better, could you please tell me:
+
+    * What type of insurance policy do you have with us?
+    * What is the specific wording of the policy regarding pet damage?
+    * Have you already contacted your neighbour about the incident?
+
+    Once I have this information, I can quickly assess your claim and let you know what steps we can take to help. 
+
+    We are here to support you through this, and we want to ensure you have the best possible outcome.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 52
+
+Email Subject: Bike stolen from garage
+
+Email Body: My bicycle was stolen from my locked garage. Can I claim for this under my home insurance?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am sorry to hear about the theft.\n\nBicycles are usually covered under the contents section of your home insurance if they were stolen from your home or a locked outbuilding such as a garage. However, there may be a single-item limit or a specific bicycle limit on your policy.\n\nPlease report the theft to the police and contact our claims team with the crime reference number, a description of the bike, and proof of ownership or value if possible.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about the theft of your bicycle. I understand this is a frustrating situation, and I'm truly sorry to hear about the loss of your bike. 
+
+We want to assure you that we're here to help you through this process. To understand your situation better, could you please tell me:
+
+* What type of bike is it?
+* What is the make and model of the bike?
+* Do you have any photos of the bike?
+* What is the value of the bike?
+* Where is your garage located?
+
+Once I have this information, I can assess your claim and guide you through the next steps. 
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's claim.
+
+================================================================================
+ID: 53
+
+Email Subject: Subsidence suspected
+
+Email Body: There are cracks appearing in our walls and we think it might be subsidence. What should we do?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us and I understand your concern.\n\nSubsidence can be a serious issue, and it is important to have it assessed by a professional. Please contact our claims team immediately with photos of the cracks and any other evidence. We will arrange for a structural engineer to visit the property and determine the cause.\n\nIn the meantime, please monitor the cracks and let us know if they worsen. Subsidence claims can take time to investigate, but we will keep you updated throughout the process.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about the suspected subsidence in your property. I understand this is a very concerning issue, and I'm truly sorry to hear about the cracks appearing in your walls.  
+
+We want to assure you that we're here to help you through this process. To get started, could you please tell me a little more about the situation? 
+
+* When did you first notice the cracks?
+* Have you noticed any other signs of subsidence, such as sloping floors or uneven walls?
+* Is there any history of subsidence in your area?
+
+Once I have a better understanding of the situation, I can guide you through the next steps. We'll be able to arrange a surveyor to assess the damage and determine the best course of action. 
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's
+
+================================================================================
+ID: 54
+
+Email Subject: Laptop damaged by water
+
+Email Body: I spilled water on my laptop and it no longer works. Can I claim for this?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email.\n\nAccidental damage to contents, such as damage caused by spilling liquid on a laptop, is usually covered if you have added accidental damage cover to your home insurance. Please check your policy schedule to confirm.\n\nIf you do have cover, please contact our claims team with details of what happened and an estimate or receipt for repair or replacement. Your policy excess will apply.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your laptop. I understand this is a frustrating situation, and I'm truly sorry to hear about the damage to your device.  
+
+    To help me understand the situation better, could you please tell me:
+
+    * What type of laptop do you have?
+    * When did the incident occur?
+    * Have you already taken any steps to try and fix the laptop?
+
+    Once I have this information, I can assess your claim and let you know what the next steps are. We're here to help you get your laptop back up and running as soon as possible.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:**  The customer's email is a claim for damage to their laptop caused by water.
+
+================================================================================
+ID: 55
+
+Email Subject: Settlement offer too low
+
+Email Body: The settlement you've offered for my claim is far too low and doesn't reflect the true cost of repairs. I want this reconsidered.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am sorry to hear that you are unhappy with the settlement offer.\n\nWe base our offers on independent assessments, market values, and the terms of your policy, but we understand that you may disagree. Please provide any additional evidence, such as alternative repair quotes or valuations, and we will arrange for a senior claims handler to review the case.\n\nWe are committed to reaching a fair outcome and will respond to you within five working days.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your claim. I understand your frustration and disappointment with the settlement offer. We strive to provide fair and reasonable settlements, but I can see that this particular case has caused you some concern.
+
+    To help me understand your situation better, could you please provide some more details about the repairs? Specifically, could you tell me the estimated cost of the repairs and the original value of the damaged item? 
+
+    Once I have this information, I can review your claim again and see if there's anything further we can do to help. I want to assure you that we are here to help you through this process and ensure you receive a fair outcome.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 56
+
+Email Subject: Broker never passed on my changes
+
+Email Body: I asked my broker to update my address months ago, but you're saying it was never done. I shouldn't be penalised for someone else's mistake.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am sorry to hear about this issue.\n\nIf your broker failed to pass on your instructions to us, we will investigate what happened and ensure your policy is updated immediately. We will also review whether any penalty or impact on your cover can be waived, given the circumstances.\n\nPlease provide any evidence of your original request to the broker (such as emails or confirmation), and we will take this forward on your behalf.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about this issue. I understand your frustration and how upsetting it must be to be facing this situation.  We want to assure you that we are here to help and find a solution that works for you.
+
+    To help us understand the situation fully, could you please provide us with your policy number and the date you made the request for your address to be updated? This will allow us to quickly access your policy details and investigate the matter further.
+
+    Once we have this information, we can take the necessary steps to rectify the situation and ensure that your policy is updated correctly. We will keep you informed of our progress and will be in touch shortly.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 57
+
+Email Subject: Claim handler not responding
+
+Email Body: I've emailed and called my claim handler several times over the past week and have had no response. This is unacceptable.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I sincerely apologise for the lack of response from your claim handler.\n\nI have escalated this matter to their manager and asked them to contact you within 24 hours with a full update on your claim. We will also investigate why you were not kept informed.\n\nIf you do not hear from us by this time tomorrow, please contact me directly and I will follow up personally.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for bringing this to our attention. I understand your frustration and disappointment with the lack of communication from your claim handler. We strive to provide a seamless and timely experience for all our customers, and it's clear that we haven't met your expectations in this instance.
+
+Could you please provide me with your claim reference number so I can quickly access your details and understand the specific situation? This will help me to investigate the matter further and ensure we're on the same page.
+
+Once I have this information, I can immediately connect you with a different claim handler who can provide you with the support you deserve. We are committed to resolving this issue promptly and ensuring you feel heard and valued.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:** I've included the customer's name in the reply to personalize it.
+
+================================================================================
+ID: 58
+
+Email Subject: Charged for cover I didn't want
+
+Email Body: I've just noticed I've been charged for legal cover that I never asked for. I want a full refund.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for bringing this to our attention and I apologise if cover was added to your policy without your consent.\n\nI will review your policy records and any call recordings or documentation from when the policy was set up to understand what happened. If the cover was added in error, we will remove it immediately and refund the charges in full.\n\nI will respond to you within three working days with the outcome.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for bringing this to our attention. I understand your frustration and disappointment in being charged for legal cover you didn't request. I'm truly sorry for the inconvenience this has caused.
+
+    To help me understand the situation better, could you please tell me:
+
+    * What policy are you referring to?
+    * When did you notice this charge?
+    * Have you checked your policy documents to see if there was any mention of this cover?
+
+    Once I have this information, I can investigate this matter further and ensure you receive a full refund. 
+
+    We are committed to providing you with the best possible service and resolving this issue promptly. Please don't hesitate to contact me if you have any further questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 59
+
+Email Subject: Telematics device required?
+
+Email Body: I've been offered a cheaper renewal quote if I install a telematics device. What does this involve and how does it work?
+
+True Category: renewal
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nA telematics device (also known as a black box) is a small device fitted to your car that monitors your driving behaviour, including speed, braking, and time of day. If you drive safely, you may be rewarded with lower premiums or discounts.\n\nThe device is usually fitted by one of our approved installers at no extra cost. You can then track your driving score via an app or online portal. If you are interested, we can provide more information and arrange installation.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand your frustration with the new quote and the requirement for a telematics device.  It can be a bit confusing, so I want to assure you that we're here to help you understand everything.
+
+    Could you please tell me a little more about your current policy and the type of vehicle you drive? This will help me clarify the details of the telematics device and how it works in your specific case. 
+
+    Once I have a better understanding of your situation, I can provide you with more information about the device and the next steps you need to take. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response. You may need to adjust it based on the specific details of the customer's query.
+
+================================================================================
+ID: 60
+
+Email Subject: Policy expiring soon, need cover fast
+
+Email Body: My current policy expires tomorrow and I haven't arranged new cover yet. Can you start a policy today?
+
+True Category: renewal
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for getting in touch.\n\nYes, we can arrange cover for you immediately if you contact us by phone or complete an online quote. Please have your driving licence, vehicle details, and payment information ready.\n\nPlease remember that driving without valid insurance is illegal, so it is important to have cover in place before your current policy expires at 23:59 tonight.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your policy expiring tomorrow. I understand how frustrating this must be, and I'm truly sorry for the inconvenience this is causing. 
+
+    We want to ensure you have the cover you need, so could you please tell me a little more about your situation? What type of cover are you looking for? And what is your current policy number?
+
+    Once I have this information, I can start the process of getting you a new policy as quickly as possible. We're here to help you every step of the way.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 61
+
+Email Subject: No email access
+
+Email Body: I no longer use the email address on my account and I'm worried I won't receive my renewal documents. Can you send them by post instead?
+
+True Category: renewal
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know.\n\nI have updated your contact preferences to send renewal documents by post, and I have also updated your email address on file if you have provided a new one. Your renewal documents will now be sent to your home address at least 21 days before your renewal date.\n\nIf you would like to update your email address, please let us know and we will change this for you.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your renewal documents. I understand your concern about not receiving them and how frustrating that must be.  We want to ensure you receive your documents promptly and securely.
+
+    Could you please confirm your current address for us? We'll need this to send your renewal documents by post. 
+
+    Once we have your updated address, we can arrange for your documents to be sent out immediately. We're here to help you through this process and ensure you have all the information you need.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+    
+
+**Please note:**  This is a sample response. You may need to adjust it based on the specific details of the customer's issue.
+
+================================================================================
+ID: 62
+
+Email Subject: Partner's policy ending, can we combine?
+
+Email Body: My partner's car insurance is ending soon and mine renews next month. Can we combine onto one multi-car policy?
+
+True Category: renewal
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nYes, we can arrange a multi-car policy that covers both vehicles under one renewal date, which may save you money. To set this up, we will need details of both vehicles, drivers, and current policies.\n\nPlease contact us before your partner's policy expires and we will provide a quote for a combined policy. We may be able to align the renewal dates so both cars renew at the same time in future.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your partner's car insurance policy ending and your own renewal. I understand your frustration at this situation, and I want to assure you that we're here to help you find the best solution.
+
+    To understand your needs better, could you please tell me a little more about your current policies?  Specifically, what is the make and model of your partner's car, and what is the current policy details for your own car?  
+
+    Once I have this information, I can quickly check if combining your policies is a viable option and provide you with a tailored quote. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 63
+
+Email Subject: Change to business use
+
+Email Body: I've started using my car for work purposes occasionally. Do I need to change my policy from social/domestic to business use?
+
+True Category: policy_change
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for checking.\n\nYes, if you use your car for business purposes (for example, travelling to client sites or carrying work equipment), you must update your policy to include business use. Using your car for work without the correct cover could invalidate your policy.\n\nPlease contact us and provide details of how you use the vehicle, and we will update your policy and confirm any change to your premium.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand that you're concerned about changing your policy to reflect your new work situation. It can be frustrating when things change and you need to update your insurance. 
+
+    To help me understand your situation better, could you please tell me a bit more about how often you're using your car for work purposes?  Also, what type of work do you do? 
+
+    Once I have a clearer picture, I can quickly check your policy and advise you on the best course of action.  We're here to help you navigate this change smoothly. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 64
+
+Email Subject: Moving to a flat with secure parking
+
+Email Body: I'm moving to a flat with secure underground parking. Will this reduce my car insurance premium?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know about your move.\n\nYes, secure parking such as an underground car park or locked garage can reduce your premium, as the risk of theft or damage is lower. When you update your address, please also let us know about the parking arrangements and we will recalculate your premium.\n\nThere may be a small administration fee for making the change mid-term, but you should receive a refund if the premium decreases.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand your frustration about potentially having to pay more for your car insurance.  Moving to a flat with secure underground parking can sometimes affect your premium, as it can be seen as a higher risk for theft or damage. 
+
+    To help me understand your situation better, could you please tell me:
+
+    * What type of car do you drive?
+    * What is your current insurance policy number?
+    * What is the address of your new flat?
+
+    Once I have this information, I can quickly check your policy and provide you with an accurate assessment of how your premium might be affected. 
+
+    We're here to help you find the best possible solution for your needs. Please don't hesitate to contact us if you have any further questions.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response and may need
+
+================================================================================
+ID: 65
+
+Email Subject: Add legal cover mid-term
+
+Email Body: Can I add legal cover to my policy now, or do I have to wait until renewal?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nYes, you can add legal cover to your policy at any time during the policy term. The additional cost will be calculated on a pro-rata basis for the remaining period of your policy, and there may be a small administration fee.\n\nPlease let us know if you would like to proceed, and we will update your policy and confirm the additional cost.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us today. I understand that you're looking to add legal cover to your policy, and I'm sorry to hear that you're facing a bit of a frustrating situation.  
+
+    We want to ensure you have the right cover for your needs, so could you please tell me a little more about your current policy and what you're hoping to achieve with this legal cover? 
+
+    Once I have a better understanding of your situation, I can advise you on the best way to proceed.  We can then discuss the options available to you, and I'll be happy to help you through the process. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:**  The customer's email is a general query, so you don't need to delve into specific details of their policy.
+
+================================================================================
+ID: 66
+
+Email Subject: Dashcam installed—any discount?
+
+Email Body: I've installed a dashcam in my car. Do you offer a discount for having one?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know.\n\nSome insurers do offer a discount for dashcams, as they can provide evidence in the event of an accident and may deter fraudulent claims. Please contact us with details of the dashcam (make and model) and we will check whether a discount applies to your policy.\n\nEven if a discount is not available, we recommend keeping your dashcam details on record as footage may be helpful if you need to make a claim.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand that you've recently installed a dashcam in your car and are wondering if we offer a discount for this. I can certainly see how that would be a helpful consideration.
+
+    To help me understand your situation better, could you please tell me a bit more about your policy?  For example, what type of car do you drive, and what is your current policy number? 
+
+    We're here to help you find the best possible solution for your needs. Please don't hesitate to reach out if you have any further questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a template and you will need to adapt it to each individual customer's situation.
+
+================================================================================
+ID: 67
+
+Email Subject: What documents do I need for MOT?
+
+Email Body: My car's MOT is due next week. Do I need to bring my insurance documents?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nYou do not usually need to bring physical insurance documents to your MOT appointment, as the test centre can check your insurance status electronically using the Motor Insurance Database.\n\nHowever, we recommend having your certificate of insurance available in case you are asked for it. You can download a copy from your online account or request one by email.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Hi [Customer Name],
+
+    Thank you for getting in touch. I understand that you're concerned about your MOT and need to know if you need to bring your insurance documents.  I'm sorry to hear that you're feeling frustrated about this.  
+
+    To clarify, do you need to provide your insurance documents for the MOT test itself, or are you just checking if you need to have them on hand for any potential paperwork?
+
+    We're here to help you through this process.  Please don't hesitate to call us on [Phone Number] if you have any further questions or need any assistance.  
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's query.
+
+================================================================================
+ID: 68
+
+Email Subject: What is an excess?
+
+Email Body: I keep seeing the word 'excess' on my policy documents. What does this mean?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nAn excess is the amount you must pay towards a claim before your insurance covers the rest. For example, if your excess is £250 and a repair costs £1,000, you pay £250 and we pay £750.\n\nYour excess is usually made up of a compulsory excess (set by us) and an optional voluntary excess (chosen by you). Increasing your voluntary excess can reduce your premium, but means you pay more if you claim.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand that seeing the word 'excess' on your policy documents can be confusing, and I'm sorry you're experiencing this.  
+
+    Could you please tell me a little more about your policy?  Specifically, what type of insurance are you referring to?  Knowing this will help me understand your query better and provide you with the most accurate information.
+
+    We're here to help you understand your policy and ensure you're fully informed. Please don't hesitate to ask any questions you may have.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:**  You will need to replace "[Customer Name]" with the actual customer's name.
+
+================================================================================
+ID: 69
+
+Email Subject: Can I drive someone else's car?
+
+Email Body: Does my car insurance allow me to drive other people's cars?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nThis depends on your level of cover and the terms of your policy. Some comprehensive policies include 'driving other cars' (DOC) cover, which provides third-party-only cover when driving another vehicle with the owner's permission. However, this is not automatic and may have restrictions (for example, you must be over 25).\n\nPlease check your policy schedule or contact us to confirm whether you have this cover.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand that you're concerned about driving someone else's car and how that might affect your car insurance.  I'm so sorry to hear you're feeling frustrated about this.  It's completely understandable to be worried about these things.
+
+    To help me understand your situation better, could you please tell me:
+
+    * What type of car insurance do you have?
+    * Have you ever driven someone else's car before?
+    * What is the specific situation that's causing you concern?
+
+    Once I have a clearer picture of your circumstances, I can provide you with the most accurate information and guidance.  
+
+    We're here to help you navigate this, and we'll work together to find a solution that works for you.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response
+
+================================================================================
+ID: 70
+
+Email Subject: Named driver no claims?
+
+Email Body: I've been a named driver on my partner's policy for three years. Can I use this to get a no claims discount on my own policy?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nUnfortunately, no claims discount usually only applies to the main policyholder, not named drivers. However, some insurers (including us) may accept proof of claim-free driving as a named driver and offer a discount when you take out your own policy.\n\nPlease contact us and we can check what evidence we need and whether a discount can be applied.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand your frustration about not being able to use your no claims discount on your own policy.  It can be very disappointing when you feel like you've been let down. 
+
+    To help me understand your situation better, could you please tell me:
+
+    * What type of policy are you looking to get a discount on?
+    * What is your partner's policy number?
+    * Have you had any driving convictions or penalty points?
+
+    Once I have this information, I can quickly check your eligibility and provide you with the most accurate information. 
+
+    We're here to help you get the best possible deal on your insurance, and we'll do everything we can to resolve this for you.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 71
+
+Email Subject: Mirror clipped while parked
+
+Email Body: Someone clipped my wing mirror while my car was parked on the street. There's no CCTV or witnesses. Can I claim?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us and I am sorry to hear about the damage.\n\nYes, you can make a claim for this damage if you have comprehensive cover. As there is no other party to recover costs from, your excess will apply and the claim may affect your no claims discount unless it is protected.\n\nPlease contact our claims team with photos of the damage, and we will arrange for repairs through one of our approved repairers.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your wing mirror. I understand this is a frustrating situation, and I'm truly sorry to hear about the damage.  We want to help you get this sorted as quickly as possible.
+
+    To help us understand the situation better, could you please tell me:
+
+    * What make and model is your car?
+    * Where exactly was the damage to your wing mirror?
+    * Do you have any photos of the damage?
+
+    Once I have this information, I can assess your claim and let you know what the next steps are. 
+
+    We're here to support you through this, so please don't hesitate to reach out if you have any questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** I've included the customer's name in the reply to personalize it.
+
+================================================================================
+ID: 72
+
+Email Subject: Child scratched car with bike
+
+Email Body: My child accidentally scratched the car while getting their bike out of the garage. Is this claimable?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email.\n\nThis type of damage would typically be covered under an accidental damage policy if you have comprehensive cover with that option added. However, you may wish to weigh the cost of the repair against your excess and the potential impact on your no claims discount before deciding whether to claim.\n\nIf you would like to proceed, please contact our claims team with details and photos of the damage.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about this incident. I understand that this is frustrating, and I'm truly sorry for the inconvenience this has caused.  It's never easy to deal with accidents, especially when they involve your car. 
+
+    Could you please tell me a little more about the incident?  For example, what type of car do you have, and what happened when your child got their bike out?  
+
+    Once I have a clearer picture of the situation, I can assess the claim and let you know what the next steps are.  We're here to help you through this, and we'll do everything we can to resolve this quickly and fairly.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 73
+
+Email Subject: Cracked windscreen—second time this year
+
+Email Body: I've had another stone chip that has turned into a crack. This is the second windscreen claim this year. Will this affect my premium?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for getting in touch.\n\nWindscreen claims usually do not affect your no claims discount, but multiple claims in a short period may be noted on your claims history and could affect future premiums or renewals.\n\nYou can arrange a repair or replacement through our approved glass partner. If you would like advice on whether to claim or pay privately, we can provide an estimate of the likely cost impact.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your cracked windscreen. I understand how frustrating this must be, especially after experiencing a similar issue this year.  We're here to help you get this sorted as quickly and smoothly as possible.
+
+    To understand your situation better, could you please tell me:
+
+    * What is the location of the damage?
+    * When did the damage occur?
+    * Do you have any photos of the damage?
+
+    Once I have this information, I can assess your claim and let you know what the next steps are.  We'll be sure to keep you updated throughout the process.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 74
+
+Email Subject: Rear-ended at traffic lights
+
+Email Body: I was stationary at traffic lights and the car behind drove into the back of me. The other driver has admitted fault. How do I claim?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us and I am sorry to hear about the accident.\n\nAs the other driver has admitted fault, we should be able to recover all costs from their insurer, meaning your excess and no claims discount should not be affected. Please provide the other driver's details (name, registration, insurer) and contact our claims team to start the process.\n\nWe will arrange repairs and liaise with the other insurer on your behalf.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about your recent accident. I understand this must be a frustrating experience, and I'm truly sorry to hear you were rear-ended.  
+
+We want to assure you that we're here to help you through this process.  To get started, could you please tell me a little more about the incident?  For example, what was the make and model of the other vehicle involved, and do you have any photos of the damage?
+
+Once I have this information, I can guide you through the next steps in your claim.  We'll be able to assess the damage and get your claim processed as quickly as possible.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 75
+
+Email Subject: Engineer didn't turn up
+
+Email Body: An engineer was supposed to visit yesterday to assess damage for my claim, but no one came and I wasn't contacted. I took time off work for this.
+
+True Category: complaint
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am very sorry that the engineer did not attend as arranged.\n\nThis is clearly unacceptable and I will investigate what happened immediately. I will arrange for a new appointment to be scheduled at a time that suits you, and I will confirm this directly with you.\n\nIf you incurred any costs as a result of the missed appointment (for example, lost earnings), please let us know and we will consider this as part of your complaint.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your claim. I understand that you were expecting an engineer yesterday and were not contacted. I'm so sorry for the inconvenience this has caused.  It's completely unacceptable that this happened, and I want to assure you that we're doing everything we can to resolve this for you.
+
+    Could you please tell me a little more about the situation?  What was the date and time of the appointment?  And what type of damage are you claiming for?  This will help me to understand the situation better and ensure we can get you the support you need as quickly as possible.
+
+    In the meantime, we'll be looking into why this happened and will be in touch with you shortly to discuss next steps.  We're here to help you through this process, and we'll do everything we can to get your claim settled as quickly as possible.
+
+    Kind regards,
+
+================================================================================
+ID: 76
+
+Email Subject: Being chased for excess I already paid
+
+Email Body: I paid my excess weeks ago but I'm still receiving emails asking me to pay. This is causing me a lot of stress.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I apologise for the confusion and stress this has caused.\n\nI have reviewed your account and can see that your excess payment was received on [date]. It appears our system was not updated correctly, and I have now resolved this. You should not receive any further payment requests.\n\nI apologise for the error and any inconvenience caused.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for bringing this to our attention. I understand that receiving these repeated requests for payment can be incredibly frustrating and stressful, especially when you've already made the payment. 
+
+    Could you please provide me with your policy number and the date you made the payment? This will help me to quickly identify the issue and ensure that your payment is reflected in our records.
+
+    We are committed to resolving this for you as quickly as possible. Once I have this information, I will be able to investigate the matter and get back to you with a solution. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 77
+
+Email Subject: Premium increased after non-fault claim
+
+Email Body: You told me a non-fault claim wouldn't affect my premium, but my renewal has gone up significantly. I feel misled.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I understand your frustration.\n\nWhile a non-fault claim does not affect your no claims discount, it is recorded on your claims history and can be one of many factors that influence your premium at renewal. Insurers use claims history, including non-fault claims, as part of their overall risk assessment.\n\nI appreciate that this may not have been clearly explained, and I apologise if you felt misled. I will arrange for a member of our team to review your renewal and discuss your options with you.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your recent premium increase. I understand your frustration and disappointment, and I want to assure you that we take your concerns very seriously. 
+
+    We understand that non-fault claims can be stressful, and we want to ensure you have a clear understanding of how they might affect your premium.  Could you please tell me a little more about the claim you made?  Specifically, what type of claim was it and when did it occur?
+
+    Once I have a clearer picture of the claim, I can look into the specific details of your policy and provide you with a more accurate explanation of the premium increase.  I'm here to help you understand this and find a solution that works for you.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 78
+
+Email Subject: Claim declined with no explanation
+
+Email Body: My claim was declined but I wasn't given a proper explanation. I want to know exactly why.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I apologise that you did not receive a clear explanation for the claim decision.\n\nEvery customer is entitled to understand why a claim has been declined, and I will arrange for a senior claims handler to contact you with a detailed explanation, including the relevant policy terms and any evidence considered.\n\nYou will also be provided with information about how to escalate your complaint if you remain dissatisfied.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your claim. I understand your frustration at the recent decline of your claim and the lack of explanation provided. We strive to be transparent and helpful in all our dealings, and I sincerely apologize for any inconvenience this has caused.
+
+    To help us understand the situation better, could you please provide some further details? 
+
+    * What type of claim was it?
+    * When did the incident occur?
+    * What was the nature of the incident?
+    * Have you received any correspondence from us regarding your claim?
+
+    Once we have this information, we can review your claim in detail and provide you with a more comprehensive explanation. We are committed to resolving this issue for you and ensuring you feel heard.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** I have edited the original email to remove any personal information and ensure it is a generic complaint.
+
+================================================================================
+ID: 79
+
+Email Subject: Quote much higher than last year
+
+Email Body: My renewal quote is £300 more than last year, even though nothing has changed. Why has it increased so much?
+
+True Category: renewal
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I understand your concern about the increase.\n\nInsurance premiums can change for many reasons, including updates to our pricing, changes in the wider insurance market, increased costs for claims and repairs, and changes in the risk profile for your area or vehicle type. Even if your personal circumstances have not changed, these factors can affect your premium.\n\nWe would be happy to review your renewal and discuss whether there are any adjustments we can make to reduce the cost, such as changing your excess or reviewing optional extras.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about your recent renewal quote. I understand your frustration at seeing such a significant increase, and I want to assure you that we take your concerns very seriously. 
+
+Could you please tell me a little more about your policy? Specifically, what type of cover do you have, and when did you last review your policy?  Knowing this will help me understand the specific factors that may have contributed to the increase.
+
+Once I have a clearer picture of your policy, I can look into the details and see if there are any potential adjustments we can make to your quote. In the meantime, I'd like to offer you a temporary discount on your premium to help ease the financial burden. This discount will be applied automatically to your next payment.
+
+Please don't hesitate to contact me if you have any further questions or concerns.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 80
+
+Email Subject: Can I freeze my renewal price?
+
+Email Body: I've received my renewal quote but I'm not ready to commit yet. Can I freeze the price for a few weeks?
+
+True Category: renewal
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nUnfortunately, we cannot guarantee to hold a renewal price for an extended period, as premiums can change based on market conditions and underwriting factors. However, your renewal quote is usually valid until your renewal date.\n\nIf you would like to discuss your options or compare our quote with others, we recommend doing so before your renewal date to ensure you have continuous cover in place.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch. I understand your frustration with the renewal quote and how difficult it can be to make a decision.  We want to ensure you feel comfortable with your insurance, so we're happy to discuss your options.
+
+    Could you please tell me a little more about your situation? For example, what is the reason you're not ready to commit to the renewal price? 
+
+    Once I have a better understanding of your needs, I can explore some options with you, including the possibility of freezing the price for a short period. 
+
+    We're here to help you find the best solution for your circumstances. Please don't hesitate to reach out if you have any further questions.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 81
+
+Email Subject: Renewing but changing address
+
+Email Body: I'm happy to renew my policy, but I'm moving house next week. Can I renew now and update the address later?
+
+True Category: renewal
+Predicted Category: renewal
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email.\n\nYes, you can renew your policy now and update your address as soon as you have moved. However, please be aware that changing your address may affect your premium, so there may be an adjustment after the renewal is processed.\n\nIf you know your new address already, we recommend providing it when you renew so your premium is calculated accurately from the start.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch. I understand that moving house can be a stressful time, and it's completely understandable that you'd want to renew your policy smoothly. 
+
+    We're happy to help you with that.  To ensure we can process your renewal correctly, could you please confirm the following:
+
+    * What is your current address?
+    * What is your new address?
+    * What is your policy number?
+
+    Once we have this information, we can get your renewal processed and updated with your new address. We'll also be happy to answer any questions you have along the way.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a template, you will need to replace the bracketed information with the customer's details.
+
+================================================================================
+ID: 82
+
+Email Subject: Automatic payment failed
+
+Email Body: My automatic renewal payment failed and now my policy has lapsed. What do I do?
+
+True Category: renewal
+Predicted Category: 
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us.\n\nIf your renewal payment failed, your policy will have lapsed and you will no longer have cover. It is illegal to drive without insurance, so it is important to resolve this immediately.\n\nPlease contact us urgently so we can arrange a new payment and reinstate your cover. Depending on how long your cover has lapsed, we may need to issue a new policy rather than reinstate the old one.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your automatic renewal payment. I understand this is a frustrating situation, and I'm truly sorry to hear that your policy has lapsed. 
+
+    To help me understand the situation better, could you please tell me:
+
+    * What date was your automatic payment due?
+    * What payment method did you use?
+    * Did you receive any error messages or notifications?
+
+    Once I have this information, I can quickly check your account and see what options are available to get your policy reinstated. 
+
+    We're here to help you get back on track as quickly as possible. Please don't hesitate to contact us if you have any further questions.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:**  The customer's email is a bit short, so I'm assuming they are referring to a missed payment.
+
+================================================================================
+ID: 83
+
+Email Subject: Change payment date mid-policy
+
+Email Body: Can I change the date my monthly payment is taken? It currently clashes with other bills.
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nIn most cases, we can adjust your payment date to better suit your circumstances. Please let us know your preferred date, and we will confirm whether it is available and when the change would take effect.\n\nPlease note that changing the payment date may result in one slightly larger or smaller payment to realign your schedule.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand that having your monthly payment date clash with other bills can be frustrating.  We want to ensure you have a smooth and stress-free experience with your insurance.
+
+    Could you please tell me a little more about your current situation?  What date is your current payment taken?  And what other bills are you struggling with?
+
+    Once I have a clearer picture, I can explore some options for you.  We can look at changing your payment date, or perhaps exploring alternative payment methods.  
+
+    We're here to help you find a solution that works for you.  Please don't hesitate to reach out if you have any further questions.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:**  The customer's email is a general query, so you don't need to delve into specific policy details.
+
+================================================================================
+ID: 84
+
+Email Subject: Remove breakdown cover
+
+Email Body: I've arranged breakdown cover separately and no longer need it on my car insurance. Can I remove it and get a refund?
+
+True Category: policy_change
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know.\n\nYes, we can remove the breakdown cover from your policy. We will refund the pro-rata cost for the remaining period of your policy, minus any administration fee.\n\nPlease confirm that you would like us to proceed, and we will update your policy and confirm the refund amount.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand that you've arranged breakdown cover separately and no longer need it on your car insurance. I'm sorry to hear that you're having to go through this process, and I appreciate you bringing it to our attention.
+
+    To help me understand your situation better, could you please confirm the following:
+
+    * What is your policy number?
+    * When did you arrange your breakdown cover separately?
+    * What is the name of the breakdown cover provider?
+
+    Once I have this information, I can quickly process your request for a refund. 
+
+    We're here to help you through this, and we'll do our best to ensure a smooth and efficient process. Please don't hesitate to contact us if you have any questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a template,
+
+================================================================================
+ID: 85
+
+Email Subject: Update bank details
+
+Email Body: I've changed banks and need to update my direct debit details. How do I do this?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for getting in touch.\n\nYou can update your bank details by logging into your online account and updating your payment information, or by contacting us directly. Please provide your new account details, and we will arrange for your direct debit to be transferred.\n\nPlease allow a few working days for the change to take effect, and ensure your old account remains active until the first payment is taken from the new account.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch. I understand that changing banks can be a bit of a hassle, and I'm sorry to hear you're having to deal with this.  We're here to help you update your direct debit details as smoothly as possible.
+
+    To do this, could you please provide me with the following information:
+
+    * Your current policy number
+    * The name of your new bank
+    * The account number and sort code of your new account
+
+    Once I have this information, I can quickly update your details and ensure your direct debit payments continue without any disruption.
+
+    Please don't hesitate to contact me if you have any questions or need any further assistance.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 86
+
+Email Subject: Cancel policy early—moving abroad
+
+Email Body: I'm moving abroad permanently and need to cancel my car insurance early. Will I get a refund?
+
+True Category: policy_change
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know.\n\nYes, you can cancel your policy early if you are moving abroad. You will receive a pro-rata refund for the remaining period, minus any cancellation fee as outlined in your policy terms.\n\nPlease provide evidence of your move (such as a letter from your employer or proof of new address) and we will process your cancellation and refund.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about cancelling your car insurance. I understand that moving abroad is a big decision and can be stressful, especially when it comes to insurance. 
+
+    I'm sorry to hear that you're facing difficulties with your policy.  Could you please tell me a little more about your situation?  For example, when did you take out your policy, and what is the policy number?
+
+    Once I have this information, I can look into your policy and see what options are available to you. We're here to help you find the best solution for your situation. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 87
+
+Email Subject: Does insurance cover hire car?
+
+Email Body: I'm hiring a car for a weekend trip. Does my car insurance cover me to drive a hire car?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nYour personal car insurance does not usually cover hire cars. Most hire companies provide their own insurance as part of the rental agreement, though you may be able to purchase additional cover to reduce the excess.\n\nWe recommend checking the hire agreement carefully and considering whether additional cover is worthwhile for your trip.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand your frustration about needing to hire a car for your weekend trip and being unsure if your current insurance covers it.  
+
+    To help me understand your situation better, could you please tell me:
+
+    * What type of car insurance do you have?
+    * What is the specific reason you need to hire a car?
+    * Have you checked your policy documents for any information about hire car cover?
+
+    Once I have this information, I can quickly check your policy and let you know if it covers your hire car needs. 
+
+    We're here to help you find the best solution, so please don't hesitate to ask any questions you may have.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 88
+
+Email Subject: Young driver black box removal
+
+Email Body: My son had a black box fitted when he first passed his test, but he's now 21 and driving safely. Can we remove it and switch to a standard policy?
+
+True Category: general_query
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nYes, many customers switch from telematics (black box) policies to standard policies once they have built up driving experience and no claims bonus. Depending on your son's driving record, this may or may not reduce his premium.\n\nPlease contact us and we can provide a quote for a standard policy and arrange for the black box to be removed if you decide to switch.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about removing the black box from your son's car. I understand this can be frustrating, especially when your son is now a responsible and safe driver. 
+
+    Could you please tell me the make and model of the car, and the policy number? This will help me to quickly check your policy and see what options are available to you. 
+
+    Once I have this information, I can provide you with a clear and concise explanation of the process and next steps. We're here to help you make the switch to a standard policy and ensure a smooth transition.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's situation.
+
+================================================================================
+ID: 89
+
+Email Subject: What is underinsurance?
+
+Email Body: I've seen the term 'underinsurance' in my policy. What does this mean?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nUnderinsurance means that the amount you have insured your property or belongings for is less than their actual value. If you are underinsured and make a claim, your payout may be reduced in proportion to the shortfall.\n\nFor example, if your contents are worth £50,000 but you only insured them for £25,000, you may only receive 50% of any claim settlement. We recommend reviewing your cover regularly to ensure it reflects the true value of your property and belongings.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us about underinsurance. I understand that this can be a confusing term, and it's completely understandable to feel frustrated when you're unsure about your policy. 
+
+    Could you please tell me a little more about your situation? For example, what type of insurance are you referring to?  And what specific concerns are you having about the term 'underinsurance'?
+
+    We're here to help you understand your policy and ensure you're adequately covered. Please don't hesitate to ask any questions you may have. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:**  The customer's email is a general query, so you don't need to delve into specific details of their policy.
+
+================================================================================
+ID: 90
+
+Email Subject: Can I get a refund if I don't claim?
+
+Email Body: I've paid for insurance all year and haven't made any claims. Can I get some money back?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nInsurance works on the principle of shared risk—your premium contributes to a pool that covers all policyholders' claims, not just your own. Even if you do not claim, your premium helps pay for others' claims and ensures cover is available if you need it.\n\nHowever, if you do not claim during your policy term, you may build up a no claims discount, which will reduce your premium at renewal.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand your frustration about not being able to claim on your insurance policy.  It can be very disappointing when you're not able to use the cover you've paid for.
+
+    Could you please tell me a little more about your policy?  Specifically, what type of insurance is it and what are the terms and conditions regarding refunds?  
+
+    Once I have a better understanding of your situation, I can explore some options for you.  We're here to help you find a solution that works for you.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 91
+
+Email Subject: Pothole damage to tyre and wheel
+
+Email Body: I hit a pothole and it damaged my tyre and bent the wheel rim. Can I claim for this?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us.\n\nPothole damage is not usually covered under standard motor insurance policies, as it is considered wear and tear or road hazard damage. However, you may be able to claim compensation from the local council responsible for maintaining the road.\n\nIf you have additional cover such as pothole protection or mechanical breakdown cover, this may apply. Please check your policy documents or contact us to confirm your cover.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about the pothole damage to your tyre and wheel. I understand this is a frustrating situation, and I'm truly sorry to hear about the damage. 
+
+    To help us understand the situation better, could you please tell me:
+
+    * What type of car do you drive?
+    * When did the incident occur?
+    * Do you have any photos of the damage?
+
+    Once I have this information, I can assess your claim and let you know what the next steps are. We're here to help you get back on the road as soon as possible.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 92
+
+Email Subject: Catalytic converter stolen
+
+Email Body: My catalytic converter was stolen overnight. Can I claim for this?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us and I am sorry to hear about the theft.\n\nCatalytic converter theft is covered under comprehensive motor insurance. Please report the theft to the police and obtain a crime reference number, then contact our claims team with photos of the damage and the crime reference.\n\nWe will arrange for your vehicle to be repaired or for a replacement part to be fitted. Your excess will apply.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about the theft of your catalytic converter. I'm so sorry to hear that this has happened to you. It's incredibly frustrating and upsetting to deal with such a situation. 
+
+    To help us understand your situation better, could you please tell me:
+
+    * What make and model of your vehicle is it?
+    * When did the theft occur?
+    * Do you have any CCTV footage or witness accounts that might be relevant?
+
+    Once I have this information, I can assess your claim and let you know what the next steps are. We're here to help you through this process and ensure you get the support you need.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's claim.
+
+================================================================================
+ID: 93
+
+Email Subject: Hail damage to car
+
+Email Body: My car was damaged by hailstones during a storm. The bodywork is badly dented. Can I claim?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us and I am sorry to hear about the damage.\n\nHail damage is usually covered under comprehensive motor insurance as weather-related damage. Please contact our claims team with photos of the damage, and we will arrange for an assessment and repairs through one of our approved body shops.\n\nYour policy excess will apply.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about the damage to your car caused by the recent hailstorm. I understand this must be a frustrating experience, and I'm truly sorry to hear about the damage to your vehicle. 
+
+    To help us process your claim as quickly as possible, could you please provide some more information? 
+
+    * What is your policy number?
+    * When did the hailstorm occur?
+    * Do you have any photos of the damage?
+
+    Once we have this information, we can assess your claim and let you know the next steps. We are here to help you through this process and ensure you get the best possible outcome.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** I have edited the email to be more concise and to include a call to action.
+
+================================================================================
+ID: 94
+
+Email Subject: Tree branch fell on car
+
+Email Body: A tree branch fell onto my car during a storm and damaged the roof. Is this covered?
+
+True Category: claim
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for contacting us and I am sorry to hear about the damage.\n\nYes, damage caused by falling trees or branches during a storm is usually covered under comprehensive motor insurance. Please contact our claims team with photos of the damage and details of the incident, and we will arrange for repairs.\n\nYour policy excess will apply.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about the damage to your car. I understand this must be a very frustrating situation, especially after a storm.  We're here to help you through this process and get your car back to its former glory.
+
+To help us understand the situation better, could you please tell me:
+
+* What is the make and model of your car?
+* Where did the tree branch fall on your car?
+* Do you have any photos of the damage?
+
+Once I have this information, I can assess your claim and let you know what the next steps are. 
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's claim.
+
+================================================================================
+ID: 95
+
+Email Subject: Forced to use approved repairer
+
+Email Body: You're insisting I use one of your approved repairers, but I want to use my local garage. Why can't I choose?
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email.\n\nWe recommend using one of our approved repairers because they meet our quality standards, offer guaranteed work, and we can manage the claim more efficiently. However, you are entitled to choose your own repairer if you prefer.\n\nPlease be aware that if you use a non-approved repairer, we may need to inspect the work and we cannot guarantee the repairs or provide a courtesy car. We will still settle the claim in line with your policy terms.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your recent claim. I understand your frustration with being forced to use an approved repairer, especially when you prefer to use your local garage. 
+
+    We want to assure you that we are here to help and find a solution that works for you. To better understand your situation, could you please tell me a little more about your local garage and why you prefer them? 
+
+    Once I have a better understanding of your needs, I can explore some options for you.  In the meantime, we can confirm that we will be covering the cost of the repair at your chosen garage. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response. You may need to adjust it based on the specific details of the customer's complaint.
+
+================================================================================
+ID: 96
+
+Email Subject: Excess increased without warning
+
+Email Body: I've just tried to make a claim and been told my excess is now £750. It was £500 last year. Why did it change without me being told?
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I apologise for the confusion.\n\nYour excess may have changed at your last renewal if your circumstances, vehicle, or level of cover changed. This information should have been included in your renewal documents, but I will review your account to confirm whether it was clearly communicated.\n\nIf there was an error, I will arrange for this to be corrected and for a manager to contact you to discuss the situation.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+Thank you for contacting us about your recent claim and the increase in your excess. I understand this is a frustrating situation, and I'm truly sorry for the inconvenience this has caused. 
+
+Could you please tell me a little more about your policy?  Specifically, what type of policy do you have and when did you last renew it?  Knowing this will help me understand the reason for the change.
+
+Once I have this information, I can look into the matter further and see what options are available to you.  We are committed to helping you resolve this issue as quickly as possible.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a template, and you will need to adapt it to the specific details of the customer's complaint.
+
+================================================================================
+ID: 97
+
+Email Subject: Claim process too slow
+
+Email Body: My claim was opened six weeks ago and I still don't have my car back. This is taking far too long.
+
+True Category: complaint
+Predicted Category: claim
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I sincerely apologise for the delay in completing your claim.\n\nI have reviewed your case and will escalate it to a senior claims manager immediately. They will contact you within 24 hours with a clear timeline for when your repairs will be completed and your vehicle returned.\n\nWe are committed to resolving this as quickly as possible, and I apologise for the inconvenience caused.\n\nKind regards,\n[Agent Name]\nCustomer Relations
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your claim. I understand your frustration and how upsetting it must be to be without your car for this long. We know how important your vehicle is to you, and we want to get this sorted out as quickly as possible for you.
+
+    To help us understand the situation better, could you please tell me:
+
+    * What is the date your claim was opened?
+    * What is the make and model of your car?
+    * What is the reason for your claim?
+
+    Once I have this information, I can look into the details of your claim and see what steps we can take to expedite the process. 
+
+    We are committed to providing you with the best possible service and we are here to help you every step of the way. Please don't hesitate to contact us if you have any further questions or concerns.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 98
+
+Email Subject: No courtesy car provided
+
+Email Body: I was told I would get a courtesy car while mine is being repaired, but now I'm being told one isn't available. I need a car for work.
+
+True Category: complaint
+Predicted Category: complaint
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your email and I am sorry to hear that a courtesy car was not provided as expected.\n\nCourtesy cars are subject to availability and the terms of your policy. I will review your policy and the arrangements made for your claim, and if a courtesy car should have been provided, I will arrange one urgently or discuss alternative solutions such as a hire car.\n\nI will contact you within 24 hours to resolve this.\n\nKind regards,\n[Agent Name]\nClaims Team
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about this issue. I understand your frustration and how important it is to have a car for work. We sincerely apologize for the inconvenience this has caused. 
+
+    Could you please tell me a little more about your situation?  What is your policy number and the date of the incident? This will help me to quickly understand the details and find the best solution for you.
+
+    We are committed to resolving this for you as quickly as possible.  We will be in touch shortly to discuss your options.  In the meantime, we understand that you need a car for work.  Would you like us to look into alternative transportation options for you?
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 99
+
+Email Subject: Moving from monthly to weekly payments
+
+Email Body: Is it possible to change from monthly to weekly payments? It would help me manage my budget better.
+
+True Category: renewal
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nUnfortunately, we do not currently offer weekly payment options. Most policies are available on an annual or monthly instalment basis. If monthly payments are difficult to manage, you may wish to consider adjusting your payment date so it aligns better with your income.\n\nIf you would like to discuss this further, please contact us.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us about changing your payment frequency. I understand how frustrating it can be when you're trying to manage your finances, and I want to assure you that we're here to help.
+
+    Could you please tell me a little more about your current policy and what you're hoping to achieve by switching to weekly payments? This will help me understand your specific needs and ensure we can offer the most suitable solution.
+
+    Once I have a clearer picture, I can discuss the options available to you and guide you through the process of making the change. We can also explore any potential fees or implications that might be involved.
+
+    Please don't hesitate to ask any questions you may have. We're here to support you every step of the way.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 100
+
+Email Subject: Partner deceased—how to update policy
+
+Email Body: My partner has passed away and they were the main policyholder. What do I need to do to transfer or update the policy?
+
+True Category: renewal
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nI am very sorry for your loss.\n\nWe will do everything we can to support you during this difficult time. Please contact us when you are ready, and we will help you either transfer the policy into your name or cancel it, depending on your circumstances. We may need to see a copy of the death certificate, but we will make the process as straightforward as possible.\n\nThere will be no charges for making changes to the policy in these circumstances.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+I'm so sorry to hear about the loss of your partner. This must be a very difficult time for you.  I understand you're looking to update your policy, and I want to assure you that we're here to help you through this process. 
+
+To get started, could you please tell me your partner's full name and date of birth?  Also, could you confirm the type of policy you're looking to update?  This will help me understand the specific steps involved.
+
+Once I have this information, I can guide you through the process of updating your policy. We can discuss options for transferring the policy or making changes to the existing policy.  We'll work together to ensure your needs are met.
+
+Kind regards,
+Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 101
+
+Email Subject: Change vehicle colour after respray
+
+Email Body: I've had my car resprayed from black to blue. Do I need to notify you?
+
+True Category: policy_change
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for letting us know.\n\nYes, you must notify us of any changes to your vehicle, including a change of colour, as this can affect your premium and your cover. We will update your records and confirm whether there is any change to your premium.\n\nPlease provide the new colour and we will process the change for you.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch. I understand that you've had your car resprayed and are wondering if you need to notify us.  I'm so sorry to hear that you're experiencing this frustration.  It's important to us that you feel confident and comfortable with your insurance policy.
+
+    To help me understand your situation better, could you please tell me:
+
+    * What type of insurance policy do you have with us?
+    * When did the respray take place?
+    * What is the colour of your car now?
+
+    Once I have this information, I can quickly check your policy and advise you on the next steps.  We're here to help you through this, so please don't hesitate to ask any questions you may have.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:** This is a sample response and may need to be adjusted based
+
+================================================================================
+ID: 102
+
+Email Subject: Reduce cover from comprehensive to third party
+
+Email Body: Can I downgrade my cover from comprehensive to third party only to reduce my premium?
+
+True Category: policy_change
+Predicted Category: policy_change
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nYes, you can reduce your level of cover from comprehensive to third party, fire and theft or third party only. This will usually reduce your premium, but you will lose benefits such as cover for damage to your own vehicle.\n\nPlease contact us if you would like a quote for reduced cover, and we will confirm the new premium and refund any difference for the remaining period.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about reducing your car insurance cover. I understand that you're looking to lower your premium and are considering downgrading from comprehensive to third party only. 
+
+    I can certainly see how that might be appealing, but I want to make sure I fully understand your situation. Could you please tell me a bit more about your current policy and what you're hoping to achieve by downgrading? 
+
+    Once I have a clearer picture of your needs, I can provide you with some tailored options and help you make the best decision for your circumstances. 
+
+    We're here to help you find the right insurance solution, and we're confident we can find a way to meet your needs. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+
+**Please note:**  The customer's email is a policy change request.
+
+================================================================================
+ID: 103
+
+Email Subject: Add breakdown cover mid-term
+
+Email Body: Can I add breakdown cover to my policy now, or do I need to wait until renewal?
+
+True Category: policy_change
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nYes, you can add breakdown cover at any time during your policy term. The cost will be calculated on a pro-rata basis for the remaining period, and there may be a small administration fee.\n\nPlease let us know if you would like to proceed, and we will provide a quote and update your policy.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Hi [Customer Name],
+
+    Thank you for getting in touch. I understand your frustration about needing to add breakdown cover mid-term. I can see that you're looking to add it to your current policy, and I want to assure you that we're here to help you find a solution.
+
+    To help me understand your situation better, could you please tell me a little more about your current policy and the reason for needing breakdown cover now? 
+
+    Once I have a clearer picture, I can check if it's possible to add it to your existing policy and what the next steps would be. 
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 104
+
+Email Subject: Insurance for electric vehicle
+
+Email Body: I'm thinking of buying an electric car. Is insurance more expensive for EVs?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nInsurance for electric vehicles can be more expensive than for petrol or diesel cars, as EVs often have higher purchase prices and repair costs. However, this varies depending on the make and model, and some insurers offer specialist EV policies or discounts.\n\nIf you provide details of the electric vehicle you are considering, we can provide a quote so you can compare it with your current premium.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us about your electric vehicle insurance. I understand that you're concerned about the cost, and I want to assure you that we're here to help.  
+
+    Electric vehicles are becoming increasingly popular, and it's natural to wonder about the cost of insuring them.  It's true that insurance premiums for EVs can sometimes be higher than for traditional petrol or diesel cars, but there are several factors that can influence the price, including the car's make and model, your driving history, and the level of cover you choose. 
+
+    To give you a more accurate quote, I'd love to ask a few questions:
+
+    * What make and model of electric car are you considering?
+    * Do you have any previous driving convictions or claims on your record?
+    * What level of cover are you looking for?
+
+    Once I have this information, I can provide you
+
+================================================================================
+ID: 105
+
+Email Subject: What is agreed value cover?
+
+Email Body: I've seen 'agreed value' and 'market value' mentioned in classic car insurance. What's the difference?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nMarket value cover means that if your car is written off, you will receive the current market value at the time of the claim. Agreed value cover means you and the insurer agree on a fixed value for the vehicle when you take out the policy, and this is the amount you will receive if the car is written off, regardless of market fluctuations.\n\nAgreed value is often used for classic or modified cars where the market value may not reflect the true worth of the vehicle.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand that you're looking for clarification on the difference between agreed value and market value cover for classic cars.  It's completely understandable to be confused by these terms, as they can seem quite technical. 
+
+    Agreed value and market value are both ways of insuring your classic car, but they differ in how they assess the value of your vehicle. Agreed value is a fixed amount that you and your insurer agree upon, based on a valuation report. This means that if your car is damaged or stolen, you'll be paid the agreed value, regardless of how much it might be worth on the open market. 
+
+    Market value, on the other hand, is based on the current price that your car would fetch in the open market. This means that if your car is damaged or stolen, you'll be paid the market value, which could be higher or lower than the agreed
+
+================================================================================
+ID: 106
+
+Email Subject: Insurance for car kept off-road
+
+Email Body: My car is off the road and I have a SORN. Do I still need insurance?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nIf your vehicle has a Statutory Off Road Notification (SORN) and is not being used or kept on a public road, you are not legally required to have motor insurance. However, you may still want to consider keeping cover for fire, theft, and damage while the vehicle is stored.\n\nIf you would like a quote for laid-up cover, please contact us.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand that having your car off the road can be frustrating, and I'm sorry to hear you're experiencing this. 
+
+    To clarify, you're asking if you still need insurance while your car is SORN, correct?  
+
+    We're here to help you understand your policy and ensure you have the right cover.  Could you please tell me your policy number so I can look into this for you?  
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note:** This is a sample response and may need to be adjusted based on the specific details of the customer's query.
+
+================================================================================
+ID: 107
+
+Email Subject: What is fronting?
+
+Email Body: I've heard the term 'fronting' in relation to car insurance. What does it mean and is it illegal?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nFronting is when someone takes out an insurance policy in their name and lists another person (usually a higher-risk driver, such as a young or inexperienced driver) as a named driver, when in reality that other person is the main user of the vehicle. This is done to reduce the premium.\n\nFronting is a form of fraud and is illegal. If discovered, it can result in the policy being cancelled, claims being rejected, and prosecution. It is important to ensure the main driver is correctly listed on the policy.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for getting in touch with us. I understand that you're concerned about the term 'fronting' and its implications for car insurance. It's completely understandable to feel frustrated when you're unsure about something, especially when it comes to your insurance. 
+
+    To clarify, 'fronting' in the context of car insurance refers to a practice where someone uses another person's details to get insurance coverage. This is illegal and can lead to serious consequences, including fines and even imprisonment. 
+
+    We want to assure you that we take this matter very seriously. We are committed to ensuring that all our customers are protected by legitimate and ethical practices. If you have any further questions or concerns, please don't hesitate to contact us. We're here to help you understand your policy and ensure you're covered appropriately.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services 
+    
+
+**Please note
+
+================================================================================
+ID: 108
+
+Email Subject: Insurance certificate lost
+
+Email Body: I've lost my insurance certificate. Do I need it to drive legally?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nYou do not need to carry your insurance certificate with you while driving, as police can check your insurance electronically via the Motor Insurance Database. However, you must have valid insurance in place.\n\nYou can download a replacement certificate from your online account or request one by email, and we will send it to you immediately.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for contacting us about your insurance certificate. I understand how frustrating it can be to lose important documents, and I'm truly sorry for the inconvenience this has caused. 
+
+    To help me understand the situation better, could you please tell me:
+
+    * What type of insurance are you referring to? (e.g., car, home, travel)
+    * When did you last have the certificate?
+    * Have you tried searching for it in any of your usual places?
+
+    Once I have this information, I can quickly check your policy details and let you know if you need your certificate to drive legally. 
+
+    In the meantime, you can always access your policy documents online through our website. If you're having trouble accessing them, please don't hesitate to let me know.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+    
+**Please note:** This is a sample
+
+================================================================================
+ID: 109
+
+Email Subject: Can I insure a car I don't own?
+
+Email Body: I want to insure my partner's car in my name so I can build up no claims discount. Is this allowed?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your enquiry.\n\nYou can usually only take out insurance on a vehicle if you have an insurable interest in it, meaning you own it, have legal responsibility for it, or would suffer a financial loss if it were damaged. Simply wanting to build no claims discount is not usually sufficient.\n\nIf you are the main driver of your partner's car, the best approach is usually for your partner to take out the policy and list you as a named driver, or for the vehicle to be registered in your name.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Hi [Customer Name],
+
+    Thank you for getting in touch with us. I understand your frustration with the current situation and how it's impacting your plans.  We want to ensure you have the best possible experience with us, so please don't hesitate to share any further details about your situation. 
+
+    To help me understand your needs better, could you please tell me:
+
+    * What is the make and model of the car you want to insure?
+    * What is the car's registration number?
+    * What is your partner's name?
+
+    Once I have this information, I can quickly check if it's possible to insure the car in your name and provide you with the next steps.
+
+    Kind regards,
+    Ryan Sylvester, Customer Services
+
+================================================================================
+ID: 110
+
+Email Subject: What is a protected no claims discount?
+
+Email Body: I'm being offered protected no claims discount at renewal. What does this mean and is it worth it?
+
+True Category: general_query
+Predicted Category: general_query
+
+Ideal Reply:
+Dear [Customer Name],\n\nThank you for your question.\n\nProtected no claims discount means that if you make one or two claims (depending on the terms), your no claims discount will not be reduced at renewal. However, your overall premium may still increase after a claim, as your claims history affects your risk profile.\n\nWhether it is worth paying for depends on how likely you think you are to make a claim and how much the protection costs. If you have a high level of no claims discount that you want to safeguard, it may be a worthwhile investment.\n\nKind regards,\n[Agent Name]\nCustomer Services
+
+Generated Reply:
+Dear [Customer Name],
+
+    Thank you for reaching out to us. I understand you're a bit confused about the protected no claims discount and whether it's worth it for you.  It's completely normal to have questions about insurance jargon, and we're here to help you understand it all.
+
+    A protected no claims discount is essentially a guarantee that you'll keep your no claims discount if you don't have any claims during the policy year.  This means that even if you have a minor accident, you won't lose your no claims discount.  It's a great way to save money on your insurance premiums, especially if you're a safe driver.
+
+    To help you decide if this is the right option for you, could you tell me a little bit more about your driving history?  For example, have you had any accidents or claims in the past?  
+
+    We're here to help you make the
+
