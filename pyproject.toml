@@ -21,6 +21,7 @@ mlflow = "3.9.0"
 torch = "^2.10.0"
 torchvision = "^0.25.0"
 tdqm = "0.0.1"
+scikit-learn = "1.8.0"
 
 [build-system]
 requires = ["poetry-core"]
